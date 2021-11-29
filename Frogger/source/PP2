@@ -1,0 +1,9 @@
+/*Author: Jake Kim & Sami Zeremariam
+*Date: 2021/04/22
+*UCID: 30061206 & 30078936
+*Tutorial: TUT 08
+*Desc: This a a recreation of the classic game "Frogger". A user can control
+* the movements of a frog using a SNES controller and the objective is to 
+* make it to the destination after completing all challenges without running out of
+* time or losing all lives or exceeding the maximum number of moves. 
+*/
